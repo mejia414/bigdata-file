@@ -1,0 +1,7 @@
+perro,casa,carro,pelota,mesa
+mesa,perro,casa,casa,cepillo
+perro,gato,pelota
+cepillo,casa
+casa
+casa,perro,caballo
+caballo,gato
